@@ -12,5 +12,5 @@ The bot makes use of a smart contract that performs the logic to maintain the to
 - NodeJs
 - Web3Js / Ethers
 - vsCode
-- Fegex
+- Fegex token pricing
 - Tenderly for analysis, simulation and debugging transactions 
