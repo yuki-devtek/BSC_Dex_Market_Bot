@@ -15,3 +15,10 @@ The bot makes use of a smart contract that performs the logic to maintain the to
 - vsCode
 - Fegex token pricing
 - Tenderly for analysis, simulation and debugging transactions 
+
+
+DISCLAIMER: This is a demo codebase from our private repositories for the above project. Contact us for more information if you find this dApp of interest.
+
+Relevant Blockchains: [Ethereum]
+
+dApp Completion date: [ X ]
